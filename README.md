@@ -1,16 +1,15 @@
-## Hi there 👋
+# Artem Eni | Junior Cybersecurity & Network Analyst 👋
 
-<!--
-**eni-artem/eni-artem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Master CV | Telegram | Email | Локация |
+| :--- | :--- | :--- | :--- |
+| 📄 [СКАЧАТЬ MASTER CV (PDF)](Master_CV.pdf) | 💬 [@artem_ikhizli](https://t.me/artem_ikhizli) | ✉️ [eni.artiom707@gmail.com](mailto:ikhizli.artem@gmail.com) | 📍 Кишинёв, Молдова |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠 Tech Stack
+* Networks & Security: TCP/IP, OSI model, Wireshark, Cisco Packet Tracer (VLAN, DHCP, NAT, Routing logic).
+* OS & Tools: Linux (Ubuntu/Debian), Windows CLI, Bash, Git.
+* Programming: Python (Automation & log parsing scripts).
+---
+## 📁 Документация проектов
+* 🌐 [Технический отчет: Проектирование и аудит сети Cisco (PDF)](Cisco_Network_Report.pdf)
+* 🐍 [Скрипты автоматизации и парсинга логов на Python](python_scripts/)
