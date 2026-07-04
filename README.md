@@ -32,4 +32,4 @@
 * Telegram: [@ваша_ссылка]
 * Email: eni.artiom707@gmail.com
 
-🚀 [DOWNLOAD MY FULL CV](./Eni_Artiom_CV.pdf)
+🚀 [DOWNLOAD MY FULL CV](./Eni_Artem_CV.pdf)
