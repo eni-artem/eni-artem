@@ -1,35 +1,41 @@
 # Hi, I'm Artem Eni 👋
-### Junior Cybersecurity & Network Analyst | Electronics Technician
+
+Junior Cybersecurity & Network Analyst | Electronics Technician
 
 ---
 
 ## 🛠️ Technical Skills (Hard Skills)
 
 ### 🌐 Networks & Security
-![TCP/IP](https://img.shields.io/badge/Network-TCP%2FIP%20%7C%20OSI-blue?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Tools-Wireshark-purple?style=flat-square)
-![Cisco](https://img.shields.io/badge/Simulators-Cisco%20Packet%20Tracer-darkgreen?style=flat-square)
+Network TCP/IP | OSI Wireshark Cisco Packet Tracer
 
 ### 💻 OS & Scripting
-![Linux](https://img.shields.io/badge/OS-Linux%20(Ubuntu%2FDebian)-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
-![Bash](https://img.shields.io/badge/CLI-Bash%20%26%20Git-lightgrey?style=flat-square)
+Linux (Ubuntu/Debian) Python CLI Bash & Git
 
-### ⚡ Electronics & Scenic Networks
-![Electronics](https://img.shields.io/badge/Hardware-Electronics%20%26%20Circuits-red?style=flat-square)
-![Protocols](https://img.shields.io/badge/Protocols-Art--Net%20%7C%20sACN%20%7C%20DMX-yellow?style=flat-square&logoColor=black)
+### ⚡ Stage Networks & Electronics
+Hardware Electronics & Circuits Art-Net | sACN | DMX
+
+---
+
+## 📂 Portfolio Repositories
+
+* 🛠️ [Electronics & Hardware](https://github.com/eni-artem/Electronics-and-hardware) — Academic engineering reports, circuit simulation (NI Multisim), and hardware design components from college.
+* 🌐 [Cisco Networking](https://github.com/eni-artem/Cisco-Networking) — Network infrastructure projects, routing & switching configurations, Cisco Packet Tracer topologies, and network security labs.
+* 🐍 [Python Automation](https://github.com/eni-artem/Python-Automation) — Python scripts for network automation, core programming logic, and utility tools.
 
 ---
 
 ## 💼 Core Experience
-* Event Key — Stage Technician / Systems Engineer (Network deployment, Art-Net/DMX routing)
-* Island Guard — CCTV Security Systems Operator (Risk analysis & monitoring)
+
+* Stage Technician / Systems Engineer — Network deployment, configuration, and routing of stage control protocols (Art-Net/DMX).
+* Island Guard — CCTV Security Systems Operator (Risk analysis and proactive monitoring).
 
 ---
 
 ## 📄 Contact & Resume
-* Location: Chișinău, Moldova 🇲🇩
-* Telegram: [@ваша_ссылка]
+
+* Location: Chisinau, Moldova MD
+* Telegram: [@твой_ник_без_собачки]
 * Email: eni.artiom707@gmail.com
 
-🚀 [DOWNLOAD MY FULL CV](./Eni_Artem_CV.pdf)
+🚀 [DOWNLOAD MY FULL CV](твой_линк_на_пдф_файл_если_нужно)
