@@ -38,4 +38,4 @@ Hardware Electronics & Circuits Art-Net | sACN | DMX
 * Telegram: [@твой_ник_без_собачки]
 * Email: eni.artiom707@gmail.com
 
-🚀 [DOWNLOAD MY FULL CV](твой_линк_на_пдф_файл_если_нужно)
+🚀 [DOWNLOAD MY FULL CV](./Eni_Artem_CV.pdf)
