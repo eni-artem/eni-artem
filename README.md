@@ -29,9 +29,7 @@ Hardware Electronics & Circuits Art-Net | sACN | DMX
 
 
 * 🌐 [Cisco Networking](https://github.com/eni-artem/Cisco-Networking) — Network infrastructure projects, routing & switching configurations, Cisco Packet Tracer topologies, and network security labs.
-  
 * 🐍 [Python Automation](https://github.com/eni-artem/Python-Automation) — Python scripts for network automation, core programming logic, and utility tools.
-  
 * 🛠️ [Engineering & Hardware Projects](https://github.com/eni-artem/Engineering-projects) — Academic engineering reports, circuit simulation (NI Multisim), and hardware design components from college.
   
 ---
